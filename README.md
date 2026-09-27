@@ -1,45 +1,47 @@
 # Benedict-Informatik-EFZ
 
-Dieses Repository dokumentiert meine Ausbildung zur Informatikerin EFZ an der Benedict Privatschule. Hier sammle ich die Projekte, Aufträge und Prüfungssimulationen, die ich im Rahmen der Lehre umsetze. Der Fokus liegt auf praktischer Arbeit: Jede Aufgabe wird selbst geplant, umgesetzt und sauber dokumentiert, damit der Lernfortschritt über die gesamte Ausbildung nachvollziehbar bleibt.
+This repository documents my training journey as an Informatiker EFZ at Benedict Private School. Here I collect the projects, assignments and exam simulations I complete as part of my training. The focus is on practical work: every task is independently planned, implemented and clearly documented, so that my progress remains traceable throughout the entire training.
 
-## Struktur
+## Structure
 
-Die Inhalte sind nach Semester und innerhalb davon nach Fach gegliedert.
-
+The content is organized by semester and within each semester by subject.
 Benedict-Informatik-EFZ/
 └── Semester-1/
-├── Netzwerken/
-├── Daten-und-Datenbanken/
-├── Elektronik/
-├── CPP-und-Applikationsentwicklung/
-├── Hardware-und-Betriebssysteme/
-└── Sonstiges/
+├── Networking/
+├── Data-and-Databases/
+├── Electronics/
+├── C++-and-Application-Development/
+├── Hardware-and-Operating-Systems/
+└── Miscellaneous/
+
 
 ## Semester 1
 
-| Fach | Modul | Schwerpunkte |
+| Subject | Module | Focus Areas |
 |---|---|---|
-| Netzwerken | Informatik- und Netzinfrastruktur für ein kleines Unternehmen realisieren | Netzwerkplanung, Konfiguration, Aufbau einer Infrastruktur |
-| Daten und Datenbanken | Daten analysieren und modellieren | Datenanalyse, Datenmodellierung, Datenbankdesign |
-| Elektronik | Spannung und Strom messen und interpretieren | Messtechnik, Schaltungen, Auswertung von Messwerten |
-| C++ und Applikationsentwicklung | Applikationen entwerfen und implementieren | Entwurf, Implementierung und Testen von Applikationen in C++ |
-| Hardware und Betriebssysteme | ICT-Arbeitsplatz mit Betriebssystem in Betrieb nehmen | Hardware, Installation und Konfiguration von Betriebssystemen |
+| Networking | Implementing IT and network infrastructure for a small business | Network planning, configuration, infrastructure setup |
+| Data and Databases | Analysing and modelling data | Data analysis, data modelling, database design |
+| Electronics | Measuring and interpreting voltage and current | Measurement technology, circuits, interpretation of measured values |
+| C++ and Application Development | Designing and implementing applications | Design, implementation and testing of applications in C++ |
+| Hardware and Operating Systems | Setting up an ICT workstation with an operating system | Hardware, installation and configuration of operating systems |
+| Miscellaneous | - | General school documents, cross-subject content |
 
-## Inhalt
+## Content
 
-- **Projekte:** Eigenständig umgesetzte Arbeiten pro Modul, von der Planung bis zum Ergebnis
-- **Aufträge:** Praxisorientierte Aufgaben aus dem Unterricht, vollständig gelöst und dokumentiert
-- **Prüfungssimulationen:** HTML-Quizzes und Übungsprüfungen zur gezielten Vorbereitung
-- **Dokumentation:** Alles in Markdown, klar strukturiert und leicht nachvollziehbar
+- **Projects:** Independently implemented work per module, from planning to final result
+- **Assignments:** Practice-oriented tasks from class, fully solved and documented
+- **Exam Simulations:** HTML quizzes and practice exams for targeted preparation
+- **Documentation:** Everything in Markdown, clearly structured and easy to follow
 
-## Über mich
+## About Me
 
-Ich bin Gresa Hisa. Meinen Weg in die Informatik habe ich autodidaktisch begonnen: Ich habe mir Wissen selbst erarbeitet, eigene Projekte umgesetzt und dabei gelernt, Probleme strukturiert und lösungsorientiert anzugehen. Diese Eigeninitiative prägt bis heute meine Arbeitsweise.
+I am Gresa Hisa. I started my path in IT self-taught: I built my knowledge independently, worked on my own projects and learned to approach problems in a structured and solution-oriented way. This initiative continues to define how I work.
 
-Mit der Ausbildung an der Benedict Privatschule baue ich mein Wissen nun systematisch aus und verbinde praktische Erfahrung mit einer fundierten Grundlage. Mich interessiert besonders, wie Systeme im Hintergrund funktionieren, und ich setze Gelerntes am liebsten direkt in eigenen Projekten um. Dieses Repository zeigt diesen Weg Schritt für Schritt.
+Through my training at Benedict Private School, I am now expanding that knowledge systematically, combining hands-on experience with a solid technical foundation. I am particularly interested in how systems work under the hood, and I always look to apply what I learn directly in my own projects. This repository reflects that journey, step by step.
 
-**Sprachen (fliessend):** Niederländisch, Schweizerdeutsch, Deutsch, Englisch, Albanisch, 
+**Languages (fluent):** Dutch, Swiss German, German, English, Albanian
 
-## Kontakt/Informationen
+## Information/Contact
+
 - LinkedIn: [linkedin.com/in/gresahisa](https://www.linkedin.com/in/gresahisa)
-- Zusätzliche Zertifikate: [credential.net/profile/gresahisa](https://www.credential.net/profile/gresahisa/wallet)
+- Certificates: [credential.net/profile/gresahisa](https://www.credential.net/profile/gresahisa/wallet)
