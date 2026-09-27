@@ -1,4 +1,4 @@
-# Benedict-Informatik
+# Benedict-Informatik-EFZ
 
 Dieses Repository dokumentiert meine Ausbildung zur Informatikerin EFZ an der Benedict Privatschule. Hier sammle ich die Projekte, Aufträge und Prüfungssimulationen, die ich im Rahmen der Lehre umsetze. Der Fokus liegt auf praktischer Arbeit: Jede Aufgabe wird selbst geplant, umgesetzt und sauber dokumentiert, damit der Lernfortschritt über die gesamte Ausbildung nachvollziehbar bleibt.
 
@@ -12,8 +12,8 @@ Benedict-Informatik-EFZ/
 ├── Daten-und-Datenbanken/
 ├── Elektronik/
 ├── CPP-und-Applikationsentwicklung/
-└── Hardware-und-Betriebssysteme/
-
+├── Hardware-und-Betriebssysteme/
+└── Sonstiges/
 
 ## Semester 1
 
