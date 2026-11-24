@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Benedict%20Private%20School-60a5fa?style=for-the-badge" alt="Benedict Private School">
+  <img src="https://img.shields.io/badge/Benedict%20Private%20School-20319?style=for-the-badge" alt="Benedict Private School">
 </p>
 
 <p align="center">
