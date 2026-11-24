@@ -1,12 +1,9 @@
 <h1 align="center">Gresa Hisa</h1>
 
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Benedict%20Private%20School-1e3a8a?style=for-the-badge" alt="Benedict Private School">
 </p>
-
-<br><br>
 
 <p align="center">
   <a href="./Modul%20117%20Netwerken"><img src="https://img.shields.io/badge/117-Networking-60a5fa?style=for-the-badge&labelColor=1e293b" alt="Modul 117 Networking"></a>
