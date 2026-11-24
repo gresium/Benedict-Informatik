@@ -1,7 +1,7 @@
 <h1 align="center">Gresa Hisa</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT%20Training-Benedict%20Private%20School-0ea5e9?style=for-the-badge&labelColor=1e3a8a" alt="IT Training at Benedict Private School">
+  <img src="https://img.shields.io/badge/Benedict%20Private%20School-0ea5e9?style=for-the-badge" alt="Benedict Private School">
 </p>
 
 <br>
