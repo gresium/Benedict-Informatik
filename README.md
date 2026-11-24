@@ -1,13 +1,24 @@
-# Gresa Hisa
- Benedict Private School
+<h1 align="center">Gresa Hisa</h1>
 
-| Module | Topic |
-|---|---|
-| [117](<./Modul 117 Netwerken>) | Networking |
-| [162](<./Modul 162 Datenbanken>) | Databases |
-| [187](<./Modul 187 ICT-Betrieb>) | ICT Operations |
-| [260](<./Modul 260 Office-Packete>) | Office Applications |
-| [316](<./Modul 316 Programieren>) | Programming |
-| [319](<./Modul 319 Elektrotechnik>) | Electrical Engineering |
-| [431](<./Modul 431 Auftragen im Berufsfeld>) | Work Assignment |
-| – | [Mathematics](<./Mathematik>) |
+<p align="center">
+  <img src="https://img.shields.io/badge/IT%20Training-Benedict%20Private%20School-1f2937?style=for-the-badge" alt="IT Training at Benedict Private School">
+</p>
+
+<br>
+
+<p align="center">
+  <a href="./Modul%20117%20Netwerken"><img src="https://img.shields.io/badge/117-Networking-0f172a?style=for-the-badge&labelColor=2563eb" alt="Modul 117 Networking"></a>
+  <a href="./Modul%20162%20Datenbanken"><img src="https://img.shields.io/badge/162-Databases-0f172a?style=for-the-badge&labelColor=2563eb" alt="Modul 162 Databases"></a>
+  <a href="./Modul%20187%20ICT-Betrieb"><img src="https://img.shields.io/badge/187-ICT%20Operations-0f172a?style=for-the-badge&labelColor=2563eb" alt="Modul 187 ICT Operations"></a>
+</p>
+
+<p align="center">
+  <a href="./Modul%20260%20Office-Packete"><img src="https://img.shields.io/badge/260-Office%20Applications-0f172a?style=for-the-badge&labelColor=2563eb" alt="Modul 260 Office Applications"></a>
+  <a href="./Modul%20316%20Programieren"><img src="https://img.shields.io/badge/316-Programming-0f172a?style=for-the-badge&labelColor=2563eb" alt="Modul 316 Programming"></a>
+  <a href="./Modul%20319%20Elektrotechnik"><img src="https://img.shields.io/badge/319-Electrical%20Engineering-0f172a?style=for-the-badge&labelColor=2563eb" alt="Modul 319 Electrical Engineering"></a>
+</p>
+
+<p align="center">
+  <a href="./Modul%20431%20Auftragen%20im%20Berufsfeld"><img src="https://img.shields.io/badge/431-Work%20Assignment-0f172a?style=for-the-badge&labelColor=2563eb" alt="Modul 431 Work Assignment"></a>
+  <a href="./Mathematik"><img src="https://img.shields.io/badge/Mathematics-Equations-0f172a?style=for-the-badge&labelColor=2563eb" alt="Mathematics"></a>
+</p>
