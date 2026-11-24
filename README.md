@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Benedict%20Private%20School-0ea5e9?style=for-the-badge" alt="Benedict Private School">
 </p>
-
 <br>
 
 <p align="center">
